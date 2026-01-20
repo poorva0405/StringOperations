@@ -16,7 +16,6 @@ public class ReplaceChar {
         String result = str.replace(oldChar, newChar);
 
         System.out.println("Updated String: " + result);
-System.out.println("Updated String: " + result);
 
         sc.close();
     }
